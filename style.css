@@ -1,0 +1,50 @@
+body {
+  background-color:maroon;
+  text-align: center
+  
+}
+
+.Name {
+  background-color: black;
+  text-align: center;
+}
+
+img{
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  color: white;
+  font-size: 40px;
+  font-family: Arial, Helvetica, Sans-serif; 
+}
+
+p, li{
+  color: white;
+  font-family: Arial, Helvetica, Sans-serif; 
+}
+
+.Dotted{
+  border-top: 2px dashed;
+  color: white
+}
+
+.Multi{
+  columns: 2;
+}
+
+h4{
+  color: silver;
+}
+
+.Work{
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.Edu{
+  columns: 2
+}
